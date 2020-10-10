@@ -1,0 +1,28 @@
+Andrew Pratt's Bullet Override Addon for Garry's Mod License
+
+Copyright (c) 2020 Andrew Pratt
+
+Author's steamID: STEAM_0:1:196732213
+Author's github: andrewpratt64
+
+Permission is hereby granted, free of charge, to any person obtaining
+the files included within this repository (as in any files within the
+github repository, "BulletOverride" by andrewpratt64), to use, copy, view, modify,
+decompile, and compile any of the files, subject to the following conditions:
+
+Do not violate the Steam Subscriber Agreement
+
+Do not violate the Steam Online Conduct
+
+Do not violate rules listed on the Steam Workshop for Garry's Mod, including,
+but not limited to, rules listed on the "Steam Workshop Rules" page on the
+Garry's Mod Wiki (https://wiki.facepunch.com/gmod/Steam_Workshop_Rules)
+
+Do not reupload any of the files, or any part of the files, without expressed
+permission to do so from the author
+
+ALL FILES IN THIS REPOSITORY ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR(S) OR COPYRIGHT HOLDER(S) BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE FILES OR THE
+USE OR OTHER DEALINGS IN THE FILES.
