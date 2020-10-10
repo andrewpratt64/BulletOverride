@@ -1,7 +1,7 @@
 # BulletOverride
 A utility for modifying your bullet properties, appearance, and more
 
-READ license.txt FOR LICENSING INFORMATION
+READ LICENSE.txt FOR LICENSING INFORMATION
 
 Addon by Andrew Pratt
   SteamID: STEAM_0:1:196732213
